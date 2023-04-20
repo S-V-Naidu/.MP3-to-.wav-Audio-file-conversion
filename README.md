@@ -1,4 +1,4 @@
-# .MP3-to-.wav-Audio-file-conversion
+# Audio-File-conversion-.MP3-to-.wav
 
 This file is easy to read and understand
 
